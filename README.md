@@ -21,10 +21,9 @@ The book titles web application project began with the goal of simplifying the m
 As the project progresses, the team plans to:
 - **Implement Core Features**: Develop functionalities for book title management, reading history tracking, and recommendations.
 - **Enhance Data Analytics**: Implement analytics to provide insights into reading habits and preferences.
-- **Mobile Accessibility**: Develop a mobile application to ensure accessibility and convenience for users on-the-go.
 
 ## Rules & Guidelines
-- **Branching Strategy**: We follow a Git branching model with main, develop, feature, and hotfix branches. Detailed guidelines on branching and merging are provided in our Git workflow document.
+- **Branching Strategy**: We follow a Git branching model with main, develop, feature, and hotfix branches.
 - **Code Reviews**: All code changes must undergo a thorough peer review before merging into the develop branch. Reviews help maintain code quality, consistency, and knowledge sharing among team members.
 - **Coding Standards**: We adhere to Java & Agile framework coding standards and best practices. Consistent code formatting and meaningful variable naming are expected to enhance readability and maintainability.
 - **Testing**: Each feature or bug fix must be accompanied by appropriate unit tests. Tests should cover critical functionalities to ensure new changes do not introduce regressions.
@@ -33,7 +32,7 @@ As the project progresses, the team plans to:
 ## Getting Started
 
 ### Clone the Repository
-Clone the project repository from [repository URL].
+Clone the project repository from [https://github.com/stephaniechansddo/assignment04].
 
 ### Set Up Development Environment
 - Ensure you have Git, Eclipse IDE, Maven, and Java 11 installed on your development machine.
